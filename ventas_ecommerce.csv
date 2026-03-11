@@ -1,0 +1,101 @@
+fecha,categoria,producto,precio,cantidad,region,tipo_cliente
+2024-01-29,Electrónica,Monitor,299.99,5,Sur,Nuevo
+2024-01-21,Electrónica,Monitor,299.99,4,Centro,Nuevo
+2024-01-02,Hogar,Cafetera,89.99,4,Oeste,Recurrente
+2024-01-17,Hogar,Sábanas,35.99,3,Centro,Recurrente
+2024-01-12,Electrónica,Tablet,399.99,4,Norte,Nuevo
+2024-01-09,Hogar,Cortinas,44.991,2,Este,Premium
+2024-01-09,Electrónica,Mouse,29.99,2,Oeste,Nuevo
+2024-01-12,Electrónica,Altavoz Bluetooth,71.991,5,Centro,Premium
+2024-01-04,Electrónica,Monitor,299.99,2,Sur,Recurrente
+2024-01-26,Electrónica,Laptop,1299.99,4,Sur,Recurrente
+2024-01-14,Hogar,Batidora,35.991,4,Norte,Premium
+2024-01-15,Hogar,Almohada,17.991,5,Sur,Premium
+2024-01-29,Hogar,Sábanas,35.99,5,Norte,Nuevo
+2024-01-12,Electrónica,Smartphone,699.99,3,Centro,Recurrente
+2024-01-27,Hogar,Lámpara LED,29.99,5,Sur,Recurrente
+2024-01-09,Electrónica,Altavoz Bluetooth,79.99,4,Sur,Nuevo
+2024-01-05,Electrónica,Monitor,299.99,3,Este,Recurrente
+2024-01-03,Hogar,Lámpara LED,29.99,5,Centro,Recurrente
+2024-01-27,Electrónica,Altavoz Bluetooth,79.99,1,Sur,Nuevo
+2024-01-17,Electrónica,Altavoz Bluetooth,79.99,4,Oeste,Recurrente
+2024-01-07,Hogar,Aspiradora,149.99,5,Centro,Nuevo
+2024-01-27,Hogar,Aspiradora,134.991,3,Este,Premium
+2024-01-21,Hogar,Sábanas,35.99,4,Este,Nuevo
+2024-01-23,Electrónica,Mouse,29.99,4,Norte,Recurrente
+2024-01-27,Electrónica,Teclado,59.99,1,Este,Recurrente
+2024-01-08,Electrónica,Cámara Digital,449.99,3,Norte,Recurrente
+2024-01-12,Hogar,Organizador,25.99,3,Norte,Recurrente
+2024-01-20,Electrónica,Mouse,29.99,4,Sur,Recurrente
+2024-01-17,Electrónica,Monitor,269.99100000000004,3,Norte,Premium
+2024-01-05,Electrónica,Altavoz Bluetooth,79.99,1,Norte,Nuevo
+2024-01-06,Electrónica,Mouse,29.99,4,Centro,Recurrente
+2024-01-24,Electrónica,Cámara Digital,404.99100000000004,5,Este,Premium
+2024-01-09,Electrónica,Smartphone,699.99,4,Centro,Nuevo
+2024-01-28,Electrónica,Smartwatch,199.99,3,Este,Nuevo
+2024-01-20,Electrónica,Tablet,399.99,4,Norte,Recurrente
+2024-01-08,Electrónica,Laptop,1299.99,1,Centro,Recurrente
+2024-01-30,Electrónica,Altavoz Bluetooth,79.99,2,Centro,Nuevo
+2024-01-20,Electrónica,Teclado,59.99,4,Norte,Nuevo
+2024-01-05,Electrónica,Auriculares,89.99,3,Norte,Nuevo
+2024-01-20,Hogar,Sartén,45.99,1,Este,Nuevo
+2024-01-08,Electrónica,Cámara Digital,449.99,4,Centro,Recurrente
+2024-01-29,Hogar,Sábanas,35.99,2,Sur,Recurrente
+2024-01-04,Electrónica,Teclado,59.99,1,Este,Nuevo
+2024-01-24,Electrónica,Smartwatch,199.99,3,Norte,Recurrente
+2024-01-22,Electrónica,Tablet,359.99100000000004,5,Centro,Premium
+2024-01-21,Hogar,Almohada,19.99,1,Este,Recurrente
+2024-01-04,Hogar,Sartén,45.99,3,Norte,Nuevo
+2024-01-06,Hogar,Cortinas,49.99,3,Este,Nuevo
+2024-01-14,Hogar,Lámpara LED,26.991,5,Centro,Premium
+2024-01-23,Electrónica,Auriculares,89.99,1,Centro,Nuevo
+2024-01-26,Electrónica,Cámara Digital,449.99,3,Sur,Recurrente
+2024-01-27,Hogar,Almohada,19.99,2,Sur,Recurrente
+2024-01-11,Hogar,Sábanas,32.391000000000005,5,Sur,Premium
+2024-01-24,Hogar,Sábanas,35.99,5,Este,Recurrente
+2024-01-01,Electrónica,Smartwatch,199.99,4,Centro,Recurrente
+2024-01-23,Electrónica,Laptop,1299.99,3,Norte,Nuevo
+2024-01-26,Hogar,Cafetera,89.99,2,Norte,Nuevo
+2024-01-11,Hogar,Cafetera,89.99,4,Oeste,Recurrente
+2024-01-07,Hogar,Cortinas,49.99,4,Oeste,Nuevo
+2024-01-23,Electrónica,Tablet,359.99100000000004,4,Oeste,Premium
+2024-01-17,Hogar,Sartén,45.99,3,Este,Recurrente
+2024-01-21,Electrónica,Mouse,29.99,1,Este,Recurrente
+2024-01-15,Electrónica,Smartphone,699.99,2,Norte,Recurrente
+2024-01-05,Electrónica,Altavoz Bluetooth,79.99,5,Centro,Nuevo
+2024-01-22,Electrónica,Auriculares,89.99,1,Oeste,Nuevo
+2024-01-30,Electrónica,Smartphone,699.99,4,Oeste,Recurrente
+2024-01-07,Electrónica,Auriculares,89.99,4,Norte,Recurrente
+2024-01-10,Hogar,Organizador,25.99,5,Este,Nuevo
+2024-01-19,Electrónica,Mouse,29.99,2,Norte,Recurrente
+2024-01-16,Hogar,Batidora,35.991,2,Norte,Premium
+2024-01-24,Hogar,Toallas,15.99,4,Sur,Recurrente
+2024-01-11,Electrónica,Tablet,399.99,5,Este,Recurrente
+2024-01-11,Hogar,Organizador,25.99,4,Oeste,Nuevo
+2024-01-29,Electrónica,Laptop,1299.99,3,Sur,Recurrente
+2024-01-29,Electrónica,Monitor,299.99,2,Sur,Nuevo
+2024-01-07,Hogar,Sábanas,35.99,4,Sur,Recurrente
+2024-01-04,Hogar,Batidora,35.991,1,Oeste,Premium
+2024-01-09,Electrónica,Auriculares,89.99,3,Norte,Recurrente
+2024-01-07,Electrónica,Smartphone,699.99,5,Este,Recurrente
+2024-01-03,Hogar,Sábanas,35.99,1,Norte,Recurrente
+2024-01-22,Electrónica,Teclado,59.99,5,Centro,Nuevo
+2024-01-19,Electrónica,Teclado,59.99,4,Norte,Recurrente
+2024-01-19,Hogar,Toallas,15.99,2,Oeste,Nuevo
+2024-01-27,Hogar,Toallas,14.391,5,Este,Premium
+2024-01-13,Hogar,Aspiradora,134.991,5,Sur,Premium
+2024-01-05,Hogar,Organizador,25.99,3,Oeste,Recurrente
+2024-01-10,Electrónica,Teclado,53.991,2,Este,Premium
+2024-01-10,Hogar,Batidora,35.991,1,Sur,Premium
+2024-01-06,Electrónica,Auriculares,89.99,3,Oeste,Recurrente
+2024-01-25,Hogar,Aspiradora,149.99,5,Este,Recurrente
+2024-01-29,Hogar,Sartén,45.99,4,Centro,Nuevo
+2024-01-13,Electrónica,Tablet,399.99,5,Sur,Recurrente
+2024-01-29,Electrónica,Monitor,299.99,1,Norte,Recurrente
+2024-01-28,Electrónica,Teclado,53.991,1,Norte,Premium
+2024-01-26,Electrónica,Cámara Digital,404.99100000000004,4,Oeste,Premium
+2024-01-16,Electrónica,Auriculares,80.991,5,Centro,Premium
+2024-01-20,Electrónica,Tablet,399.99,1,Sur,Nuevo
+2024-01-21,Electrónica,Smartphone,629.991,3,Norte,Premium
+2024-01-06,Hogar,Batidora,39.99,4,Este,Recurrente
+2024-01-26,Electrónica,Smartwatch,199.99,2,Este,Recurrente
